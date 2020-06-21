@@ -1,0 +1,17 @@
+.navbar {
+  padding: 8px 16px;
+  background-color: #26003e;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: 100vw;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-title {
+  font-size: 20px;
+}
